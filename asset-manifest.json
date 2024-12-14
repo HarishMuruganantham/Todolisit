@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Todolisit/static/css/main.3f55da48.css",
+    "main.js": "/Todolisit/static/js/main.25d69a07.js",
+    "static/js/488.7e42eb1a.chunk.js": "/Todolisit/static/js/488.7e42eb1a.chunk.js",
+    "index.html": "/Todolisit/index.html",
+    "main.3f55da48.css.map": "/Todolisit/static/css/main.3f55da48.css.map",
+    "main.25d69a07.js.map": "/Todolisit/static/js/main.25d69a07.js.map",
+    "488.7e42eb1a.chunk.js.map": "/Todolisit/static/js/488.7e42eb1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f55da48.css",
+    "static/js/main.25d69a07.js"
+  ]
+}
